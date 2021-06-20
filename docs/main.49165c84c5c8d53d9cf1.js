@@ -32,7 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\r\n<!--===========================\r\n; Title: About Component HTML\r\n; Author: George Henderson\r\n; Date: 20 June 2021\r\n; Description: Contains the HTML for the About Component.\r\n;===========================-->\r\n<div class=\"row\">\r\n  <div class=\"col-6\">\r\n    <img src=\"../../assets/mozart.jpg\" alt=\"Painted portrait of Wolfgang Amadeus Mozart\"> <!--Mozart Image-->\r\n  </div>\r\n  <div class=\"col-6\">\r\n    <p>\r\n      Mozart commonly called himself Wolfgang Amadé or Wolfgang Gottlieb. He was estranged from his father Leopold, whom came from a family in good standing (including architects and bookbinders). His father Leopold was an author of a famous violin-playing manual that so happened to be published the year of Mozarts birth. Wolfgang Amadé's mother was born of a middle class family in local administration.\r\n    </p><!--About Mozart-->\r\n  </div>\r\n</div>\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\r\n<!--===========================\r\n; Title: About Component HTML\r\n; Author: George Henderson\r\n; Date: 20 June 2021\r\n; Description: Contains the HTML for the About Component.\r\n;===========================-->\r\n<div class=\"row\">\r\n  <div class=\"col-6\">\r\n    <img src=\"/assets/mozart.jpg\" alt=\"Painted portrait of Wolfgang Amadeus Mozart\"> <!--Mozart Image-->\r\n  </div>\r\n  <div class=\"col-6\">\r\n    <p>\r\n      Mozart commonly called himself Wolfgang Amadé or Wolfgang Gottlieb. He was estranged from his father Leopold, whom came from a family in good standing (including architects and bookbinders). His father Leopold was an author of a famous violin-playing manual that so happened to be published the year of Mozarts birth. Wolfgang Amadé's mother was born of a middle class family in local administration.\r\n    </p><!--About Mozart-->\r\n  </div>\r\n</div>\r\n");
 
 /***/ }),
 
@@ -597,4 +597,4 @@ module.exports = __webpack_require__(/*! C:\Users\Tony\bu-webdev\enterprise-comp
 /***/ })
 
 },[[0,"runtime","vendor"]]]);
-//# sourceMappingURL=main.28c39c8e278af0ff5c56.js.map
+//# sourceMappingURL=main.49165c84c5c8d53d9cf1.js.map
